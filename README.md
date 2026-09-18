@@ -65,4 +65,3 @@ LinkedIn: https://www.linkedin.com/in/e3wright/
 
 Devpost: https://devpost.com/lizwright06
 
-📫 Always open to connecting with fellow students, engineers, and builders.
