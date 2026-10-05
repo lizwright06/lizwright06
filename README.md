@@ -15,7 +15,7 @@
 
 **Frameworks/Libraries:** React, Vue, Next.js, Express, ASP.net Core, Tailwind, Vuetify, Sequelize, scikit-learn, SciPy
 
-**Developer Tools:** Git, GitHub, VS Code, Eclipse, Docker}
+**Developer Tools:** Git, GitHub, VS Code, Eclipse, Docker
 
 ---
 
